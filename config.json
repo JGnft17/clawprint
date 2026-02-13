@@ -1,0 +1,6 @@
+{
+  "model_preference": "auto",
+  "planning_timeout": 600,
+  "output_format": "markdown",
+  "plan_detail_level": "comprehensive"
+}
