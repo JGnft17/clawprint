@@ -1,3 +1,8 @@
+---
+name: clawprint
+description: "Blueprint generator for complex task planning - breaks tasks into step-by-step build plans"
+---
+
 # Clawprint Skill
 
 ## Overview
